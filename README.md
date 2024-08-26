@@ -39,7 +39,7 @@ Run the application using Gradle:
 
 # API Endpoints
 
-You can find the API endpoints and test them using the provided:  https://elements.getpostman.com/redirect?entityId=36793359-6202ecd7-f85d-4f2f-a4b3-22618e9eeda9&entityType=collection
+You can find the API endpoints and test them using the provided:  https://speeding-flare-905775.postman.co/workspace/rentreadV2~60effe98-05bb-4b52-8f92-a52549e9f657/collection/37911870-cc1e935a-4c34-4206-b841-0b660d58f097?action=share&source=copy-link&creator=37911870
 
 
    
